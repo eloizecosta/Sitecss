@@ -9,7 +9,7 @@ body{
     background-image: url("https://conteudo.imguol.com.br/c/entretenimento/04/2021/05/25/pessoas-diversidade-1621983100380_v2_1920x1235.jpg");
 }
 #cabecalho{
-    height: 50px;
+    height: 80px;
     background-color: rgb(104, 48, 15) ;
     width: 100%;
     margin: 0 auto;
@@ -26,6 +26,7 @@ body{
     margin-left: 1px;
     margin-top: 10px;
     border-radius: 30px;
+    font-family: Georgia;
 }
 
 #conteudo{
@@ -56,7 +57,13 @@ button {
     margin-left: 5px;
     margin-top: 15px;
     margin-right: 15px;
+    width: 180px;
+    height: 50px;
     
   }
-
+#menutitulo{
+    color: beige;
+ 
+    
+}
  

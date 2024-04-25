@@ -18,26 +18,28 @@ body{
     
 }
 
-#conteudo2{
-    height: 3350px;
+#conteudo{
+    height: 1450px;
     width: 1000px;
     background-color: rgb(238, 232, 232);
-    margin-left: 185px;
+    margin-left: 200px;
     margin-top: 10px;
     padding: 50px;
     border-radius: 50px;
     text-align: center;
   }
 
+
 h1{
     font-family: Georgia;
+
 }
-button {
+button{
     background-color: #7eaa04; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
-    text-align: right;
+    text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
@@ -45,6 +47,14 @@ button {
     margin-left: 5px;
     margin-top: 15px;
     margin-right: 15px;
-
     
-  }
+}
+
+h2{
+    text-align: center;
+}
+
+#lugares{
+    text-align: left;
+    font-family: Georgia;
+}
