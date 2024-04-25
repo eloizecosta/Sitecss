@@ -19,7 +19,7 @@ body{
 }
 
 .menu{
-    height: 500px;
+    height: 360px;
     width: 200px;
     background-color:  rgb(104, 48, 15);
     float: left;
@@ -63,6 +63,7 @@ button {
   }
 #menutitulo{
     color: beige;
+    text-align: center;
  
     
 }
